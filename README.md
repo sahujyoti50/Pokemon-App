@@ -12,12 +12,12 @@ Tech coverage:
 
 Accessibility achieved by adding :
 
- i. Structuring App With Semantic Markup.
- ii. Upgrading Semantic Markup With ARIA Attributes.
- iii. By using Alt Text On Image.
- iv. By Using Casing & Reserved Words.
- v. By Setting Page Titles.
- vi. Using Fragments.
+ 1. Structuring App With Semantic Markup.
+ 2. Upgrading Semantic Markup With ARIA Attributes.
+ 3. By using Alt Text On Image.
+ 4. By Using Casing & Reserved Words.
+ 5. By Setting Page Titles.
+ 6. Using Fragments.
 
  reusability is achieved by using component based architecture.
 =================================================================
