@@ -4,22 +4,23 @@ Requirement Coverage:
 3. A view to search for Pokémons based on their name, ability or move
 
 Tech coverage:
-1.The project is built by using ReactJs.
-2.Browser Independent.
-3.Project Implemented by using Javascript.
-4.Bootstrap is used for styling.
+1. The project is built by using ReactJs.
+2. Browser Independent.
+3. Project Implemented by using Javascript.
+4. Bootstrap is used for styling.
+5. Basic unit Testing covered by using Jest.
 
 Accessibility achieved by adding :
+
  i. Structuring App With Semantic Markup.
- ii.Upgrading Semantic Markup With ARIA Attributes.
- iii.By using Alt Text On Image.
- iv.By Using Casing & Reserved Words.
- v.By Setting Page Titles.
- vi.Using Fragments.
+ ii. Upgrading Semantic Markup With ARIA Attributes.
+ iii. By using Alt Text On Image.
+ iv. By Using Casing & Reserved Words.
+ v. By Setting Page Titles.
+ vi. Using Fragments.
 
  reusability is achieved by using component based architecture.
- 
-=================================================================================
+=================================================================
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
