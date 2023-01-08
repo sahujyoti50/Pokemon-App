@@ -20,6 +20,7 @@ Accessibility achieved by adding :
  6. Using Fragments.
 
  reusability is achieved by using component based architecture.
+ 
 =================================================================
 # Getting Started with Create React App
 
